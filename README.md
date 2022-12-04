@@ -1,8 +1,8 @@
 
-#Artificial Intelligence and Single prompt used to generate simple unity3d car game
+# Artificial Intelligence and Single prompt used to generate simple unity3d car game
 
 
-#Co-author: God Bennett
+# Co-author: God Bennett
 #Main author: GPTChat Ai by OpenAI
 #Website: https://chat.openai.com/chat
 
