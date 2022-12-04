@@ -3,11 +3,11 @@
 
 
 # Co-author: God Bennett
-#Main author: GPTChat Ai by OpenAI
-#Website: https://chat.openai.com/chat
+# Main author: GPTChat Ai by OpenAI
+# Website: https://chat.openai.com/chat
 
 
-#My Prompt:
+# My Prompt:
 
 "Unity C# car controller class called CarControllerGpt to:
 
